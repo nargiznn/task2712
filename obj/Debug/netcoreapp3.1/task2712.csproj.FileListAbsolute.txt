@@ -1,0 +1,14 @@
+/Users/nergiznadirli/Projects/Homework/task2712/bin/Debug/netcoreapp3.1/task2712
+/Users/nergiznadirli/Projects/Homework/task2712/bin/Debug/netcoreapp3.1/task2712.deps.json
+/Users/nergiznadirli/Projects/Homework/task2712/bin/Debug/netcoreapp3.1/task2712.runtimeconfig.json
+/Users/nergiznadirli/Projects/Homework/task2712/bin/Debug/netcoreapp3.1/task2712.runtimeconfig.dev.json
+/Users/nergiznadirli/Projects/Homework/task2712/bin/Debug/netcoreapp3.1/task2712.dll
+/Users/nergiznadirli/Projects/Homework/task2712/bin/Debug/netcoreapp3.1/task2712.pdb
+/Users/nergiznadirli/Projects/Homework/task2712/obj/Debug/netcoreapp3.1/task2712.csproj.AssemblyReference.cache
+/Users/nergiznadirli/Projects/Homework/task2712/obj/Debug/netcoreapp3.1/task2712.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nergiznadirli/Projects/Homework/task2712/obj/Debug/netcoreapp3.1/task2712.AssemblyInfoInputs.cache
+/Users/nergiznadirli/Projects/Homework/task2712/obj/Debug/netcoreapp3.1/task2712.AssemblyInfo.cs
+/Users/nergiznadirli/Projects/Homework/task2712/obj/Debug/netcoreapp3.1/task2712.csproj.CoreCompileInputs.cache
+/Users/nergiznadirli/Projects/Homework/task2712/obj/Debug/netcoreapp3.1/task2712.dll
+/Users/nergiznadirli/Projects/Homework/task2712/obj/Debug/netcoreapp3.1/task2712.pdb
+/Users/nergiznadirli/Projects/Homework/task2712/obj/Debug/netcoreapp3.1/task2712.genruntimeconfig.cache
